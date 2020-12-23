@@ -1,0 +1,21 @@
+- Landingpage
+- Explore
+- Shop
+    - Produktübersicht
+    - Kategorieübersicht (als Dropdown-Menüpunkt ?)
+- My Account
+    - Login / Registrierung
+    - Übersicht
+    - Logout
+- Warenkorb
+    - Checkout
+- Information
+    - Data Security
+    - Terms & Conditions
+    - Contact
+    - About Us
+    - Details
+    - Payment Methods
+    - Shipping Methods
+    - Vendor Registration
+    - Store Manager
