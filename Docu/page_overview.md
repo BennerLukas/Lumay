@@ -2,7 +2,7 @@
 - Explore
 - Shop
     - Produktübersicht
-    - Kategorieübersicht (als Dropdown-Menüpunkt ?)
+    - Kategorieübersicht (als Dropdown-Menüpunkt?)
 - My Account
     - Login / Registrierung
     - Übersicht
