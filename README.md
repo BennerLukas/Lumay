@@ -5,7 +5,7 @@ Lumay ist eine C2C Plattform, mit der lokale Spezialitäten weltweit verfügbar 
 
 Lumay ist ein studentisches Projekt von:
 - Lukas Benner (s190259)
-- Marie Kriger
+- Marie Krieger (s191222 / 7735371)
 - Ayman Madhour
 
 -> Lumay
