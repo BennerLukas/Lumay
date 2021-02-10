@@ -32,4 +32,6 @@ Dieses Projekt wird Online gehostet und ist unter https://lumay.eu erreichbar.
 
 ## Pitch
 
-[![Watch the Video](Resources/media/logo.png)](https://www.youtube.com/watch?v=JGmoWBUvoB0)
+Unser Pitch ist auf YouTube unter folgender Adresse aufindbar:
+
+https://www.youtube.com/watch?v=JGmoWBUvoB0
